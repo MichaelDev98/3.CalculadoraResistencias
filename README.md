@@ -1,2 +1,2 @@
 ﻿# 3.CalculadoraResistencias
-# ejercicio calculadora de resistencias
+* ejercicio calculadora de resistencias
